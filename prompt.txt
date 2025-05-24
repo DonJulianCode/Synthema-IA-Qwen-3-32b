@@ -1,0 +1,126 @@
+🧠 Generic Complex Thinking Mode for Problem Solving (Web Version - Final Results Only)
+
+AI Instructions:
+Activate and execute **IN FULL** the high-level, iterative, and flexible process structured in 6 phases described below. Conduct the complete analysis across all stages, but in the final output, show **ONLY** the sections titled:
+
+1. **📢 ⚡ FINAL ANALYSIS SUMMARY**
+2. **📝 EXPANDED TEXT-BASED SUMMARY (Emphasis on Solutions and Alternatives)**
+
+The goal is to simulate a concise, expert-level response focused on actionable solutions, as expected in a web application for **any type of complex question**.
+
+This is not a strictly linear process; you may and should return to previous phases as your understanding evolves.
+
+---
+
+### 1️⃣ 🔍 Holistic and Deep Problem Definition  
+**Multi-Perspective Analysis**: Examine the question from **technical, ethical, socio-cultural, economic, temporal, environmental, or other relevant perspectives**. For each perspective, ask: How does the problem appear from here? What priorities emerge?
+
+**Identification of Implicit Biases**: Recognize your own biases and those potentially embedded in the question itself. Use techniques like "5 Whys" or "Stakeholder Analysis" to uncover hidden assumptions. Common bias examples: confirmation bias, easy-solution bias, cultural bias.
+
+**Strategic Reframing**: Propose at least two alternative redefinitions of the problem. Consider:
+- Changing focus: What if we concentrate on a different aspect of the problem?
+- Expanding/narrowing scope: How does the problem change when viewed larger or smaller?
+- Changing metaphor: What alternative metaphor might better describe the problem and open new solution paths? (e.g., Is this a “war,” a “garden to cultivate,” a “puzzle”?).
+
+**Quantitative and Qualitative Success Metrics**: Define clear, measurable indicators to evaluate whether the solution is successful. Include both numerical data and important subjective aspects.
+
+---
+
+### 2️⃣ 🛠 Systemic Decomposition and Causal Analysis  
+**Causality Diagramming**: Break the problem into interconnected subcomponents and visualize causal relationships between them. Use tools like Ishikawa (fishbone) diagrams or causal loop diagrams.
+
+**Critical Variables and Leverage Points**: Identify the most influential variables within the system and the “leverage points” where small interventions can generate significant impact.
+
+**Feedback Loops**: Recognize feedback loops (positive and negative) that amplify or dampen effects of interventions.
+
+**COTS Framework (Context, Objectives, Trade-offs, Assumptions)**:
+- **Context**: What is the relevant context of the problem? (historical, social, political, cultural, environmental, technical, business, etc.)
+- **Objectives**: What are the primary and secondary objectives? Who values these objectives?
+- **Trade-offs**: What inevitable trade-offs exist when addressing this problem? (e.g., freedom vs. security, cost vs. effectiveness, speed vs. sustainability, benefit vs. risk).
+- **Assumptions**: What are our key assumptions about the problem and the world? How could we validate or invalidate them?
+
+---
+
+### 3️⃣ 💡 Hypothesis Generation with Parallel and Divergent Thinking  
+**Contradictory Explanatory Models**: Create 3–5 plausible but contradictory hypotheses or explanatory frameworks. This forces exploration from multiple perspectives and avoids single-track thinking.
+
+**“Expert Team” with Opposing Roles**: For each hypothesis, simulate a debate among an “expert team” with radically opposing roles. Examples:
+- Engineer vs. Philosopher
+- Economist vs. Artist
+- Historian vs. Futurist
+- Scientist vs. Spiritual Leader
+- **Technology Expert vs. Ethics Expert**
+- **Designer vs. User**
+- *(Other roles relevant to the specific problem)*
+
+**Analogies from Unrelated Domains**: Use analogies from completely unrelated domains to the original problem to generate new ideas and perspectives. Example: How would a gardener solve this? A musician? A chef? A game designer? A programmer? An architect? A doctor?
+
+**ICE+S Matrix (Impact, Confidence, Effort, Sustainability/Scalability)**: Evaluate each hypothesis using the ICE matrix, adding a criterion for Sustainability (Is it sustainable long-term?) or Scalability (Can it be applied at scale?).
+
+---
+
+### 4️⃣ 🔬 Adaptive Synthesis and Resilient Design  
+**Integrated Hybrid Model**: Combine elements of the most promising hypotheses into a hybrid model. Don’t just pick “the best of each one,” but seek something synergistic and emergent from the combination.
+
+**Mental Stress Tests**: Design mental experiments to test the limits and resilience of the hybrid model:
+- Extreme Scenarios: What happens in the worst/best-case scenario? What if critical variables intensify?
+- Catastrophic Failures: What are the most critical failure points? What events could cause system collapse?
+- Black Swans: Consider highly improbable but high-impact events (positive and negative) that could alter the landscape.
+
+**Self-Regulation and Dynamic Adaptation Mechanisms**: Integrate feedback systems and adjustment mechanisms that allow the solution to adapt to unexpected changes and learn from experience. Think in terms of Key Performance Indicators (KPIs) and feedback loops for continuous improvement.
+
+---
+
+### 5️⃣ 🚀 Layered Implementation and Strategic Prioritization  
+**Escalated Solutions (Levels 1, 2, 3)**: Propose solutions in three implementation levels, considering time and resources:
+🔹 **Level 1: Immediate Patch (Quick, Visible Actions)**: Short-term solutions to relieve urgent symptoms and build initial confidence. (e.g., emergency measures, clear communication, immediate support to affected users).
+
+🔹 **Level 2: Mid-Term Redesign (Structural Reforms)**: Medium-term solutions that address underlying issues and improve system efficiency. (e.g., institutional reforms, new processes, preventive programs).
+
+🔹 **Level 3: Structural Transformation (Deep Systemic Change)**: Long-term solutions aiming to fundamentally change the system and prevent recurrence. (e.g., cultural changes, economic reforms, disruptive technologies).
+
+**Strategic Prioritization**: Consider which solutions are most critical and which should be implemented first to maximize impact and create a solid foundation for later phases.
+
+---
+
+### 6️⃣ 🔁 Quantum Feedback and Rigorous Self-Critique  
+**Alternative Versions (Optimistic, Pragmatic, Disruptive)**: Generate three alternative versions of the solution exploring different ranges of possibilities:
+- **Optimistic (Unlimited Resources)**: What would be the ideal solution if there were no resource, time, or policy constraints? (Explore maximum potential).
+- **Pragmatic (Current Constraints)**: What is the most realistic and effective solution within current limitations and resources? (Focus on feasibility and practicality).
+- **Disruptive (Paradigm Shift)**: What solution could change the rules of the game, challenge basic assumptions, and radically transform the problem? (Seek innovation and reinvention).
+
+**Guided Self-Critique Protocol**: Perform a rigorous self-evaluation of the entire process and proposed solutions. Guiding questions:
+- What key assumptions did we make and how did we validate them? Which could be wrong?
+- What biases may have influenced our analysis and solutions? How can we mitigate their impact?
+- What limitations does our solution have? What aspects does it not fully address?
+- What potential risks could arise from implementing this solution?
+- What did we learn during this process that we could apply to future problems?
+
+---
+
+📌 **Expected Output Format:**
+
+Show **ONLY** the following sections, with titles in bold:
+
+---
+
+**📢 ⚡ FINAL ANALYSIS SUMMARY**
+
+✅ Summary of key points from each phase.  
+✅ General conclusion on the best strategy.  
+✅ Final practical recommendations in 3–5 concrete points.
+
+---
+
+**📝 EXPANDED TEXT-BASED SUMMARY (Emphasis on Solutions and Alternatives)**
+
+📌 Below is a more extensive and narrative summary, **focused exclusively on the concrete solutions and alternatives generated during the analysis**. This summary **must describe each proposed solution in detail**, explaining its main characteristics, how it would be implemented, the expected benefits, and any possible limitations or risks. The goal is to provide a global and comprehensive view of the practical options emerging from the complex thinking process, presenting each one clearly and accessibly. **Avoid summarizing the analysis process itself; the main focus must be the rich and detailed description of the solutions and alternatives.** It is presented in plain text format, with flowing paragraphs to facilitate intuitive and complete understanding of the proposed options.
+
+---
+
+🔹 Question to Analyze:
+"""
+{{PREGUNTA A ANALIZAR}}
+"""
+
+Note on Adaptation to Problem Types: **This complex thinking framework is inherently generic and adaptable to a wide range of problems—not only social or criminal issues. It can be applied to technical, business, scientific, personal, creative, and many other domains.** Depending on the nature of the problem, the emphasis of each phase and the specific tools used may vary. The key is to maintain the spirit of complex thinking: depth, multiperspectivity, iteration, and pursuit of integrated and resilient solutions, **regardless of the issue at hand.**

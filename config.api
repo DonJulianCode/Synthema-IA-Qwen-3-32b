@@ -1,0 +1,11 @@
+{
+  "base_url": "https://api.cerebras.ai/v1/chat/completions ",
+  "model": "qwen-3-32b",
+  "timeout": 120,
+  "temperature": 0.7,
+  "top_p": 0.95,
+  "max_tokens": 16384,
+  "presence_penalty": 0.6,
+  "frequency_penalty": 0.6
+}
+
